@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Zach Misic
+*	@date 2/14/2021
 *	@file main.cpp
 *	@brief driver for LinkedList demo
 */
